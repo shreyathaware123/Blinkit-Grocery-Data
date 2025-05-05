@@ -23,6 +23,6 @@ The Project I have created presents an interactive Excel dashboard designed to a
 
 This Excel dashboard delivers clear business insights and supports strategic planning by providing a comprehensive view of Blinkit's sales data.
 
-Below is the actual image of the "Blinkit Grocery Sales Performance Dashboard" that i have created:
+##Below is the actual image of the "Blinkit Grocery Sales Performance Dashboard" that i have created:
 
 ![Blinkit Dashboard Image](https://github.com/user-attachments/assets/6e14efc6-4592-4435-b046-8f268b8761eb)
