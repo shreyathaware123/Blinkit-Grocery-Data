@@ -1,6 +1,6 @@
 ## 📈 Blinkit Grocery Sales Performance Dashboard – Excel Project
 
-This project presents an interactive Excel dashboard designed to analyze Blinkit’s Grocery Sales Performance across multiple business dimensions. By calculating key performance indicators (KPIs) and visualizing trends, segmentations, and product insights, the dashboard provides a clear and actionable overview of Blinkit's operations from 2011 to 2022.
+The Project I have created presents an interactive Excel dashboard designed to analyze Blinkit’s Grocery Sales Performance across multiple business dimensions. By calculating key performance indicators (KPIs) and visualizing trends, segmentations, and product insights, the dashboard provides a clear and actionable overview of Blinkit's operations.
 
 ### 🛠 Skills Applied
 
